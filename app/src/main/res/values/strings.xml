@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="default_count" />
+    <string name="black_button" />
+    <string name="red_button" />
+    <string name="blue_button" />
+    <string name="green_button" />
+    <string name="count_button" />
+    <string name="reset_button" />
+</resources>
